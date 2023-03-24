@@ -1,0 +1,88 @@
+body {
+  font-family: "Manrope", sans-serif;
+}
+.y-container {
+  padding-inline: 16px;
+  margin-inline: auto;
+  max-width: 1200px;
+}
+.y-blue-part {
+  background: #3734a9;
+  color: white;
+  height: 450px;
+}
+.y-blue-content {
+  padding-top: 90px;
+  padding-left: 150px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 200px;
+  max-width: 900px;
+}
+.y-left-content {
+  font-size: 18px;
+}
+.y-right-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 24px;
+  width: 300px;
+}
+.y-input {
+  background-color: #5c5ab8;
+  padding: 15px;
+}
+.y-submit {
+  color: white;
+  background-color: #ff7f5c;
+  padding: 15px;
+}
+.y-input::placeholder {
+  color: white;
+}
+.y-white-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 20px;
+}
+
+.y-titles {
+  font-weight: 700;
+  font-size: 21px;
+}
+.y-shakir {
+  padding-right: 30px;
+}
+.y-lists {
+  list-style: none;
+  padding-left: 0;
+}
+a:link {
+  text-decoration: none;
+}
+
+.y-email::placeholder {
+  font-size: smaller;
+}
+
+.y-email {
+  padding: 5px;
+  max-width: 130px;
+}
+.y-subscribe {
+  color: white;
+  background-color: #3734a9;
+  display: inline-block;
+}
+.y-separator {
+  background-color: gray;
+  margin-top: 70px;
+  height: 2px;
+  width: 1200px;
+}
+.y-copyright {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}

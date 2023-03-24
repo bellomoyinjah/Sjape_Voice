@@ -1,0 +1,154 @@
+.index2 {
+  max-width: 100%;
+}
+.track {
+  width: 80%;
+  background-color: #f8f9fd;
+  display: inline-flex;
+
+  gap: 100px;
+  width: 75%;
+  height: 196px;
+  margin-left: 200px;
+
+  font-family: "Manrope";
+
+  font-size: 20px;
+}
+.track_heading {
+  width: 450px;
+  margin-left: 50px;
+  align-self: center;
+}
+.button1 {
+  background-color: #4f46ba;
+  border-radius: 10px;
+  color: white;
+  width: 181px;
+  height: 60px;
+  margin-top: 68px;
+}
+.middle {
+  display: inline-flex;
+}
+.middle_left {
+  position: absolute;
+  width: 342px;
+  height: 388px;
+  margin-left: 170px;
+  margin-top: 126px;
+  justify-content: center;
+  background: #ffffff;
+  border: 1px solid #dfdfdf;
+  box-shadow: 0px 64px 194px rgba(0, 0, 0, 0.1);
+  border-radius: 22px;
+}
+.middle_left_head {
+  width: 223px;
+  height: 33px;
+  margin-left: 20px;
+  top: 1296px;
+
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+}
+.verify_logo {
+  margin-left: 320px;
+  border-bottom: 30px;
+  margin-top: -100px;
+}
+.list1 {
+  margin-top: 30px;
+  margin-left: -20px;
+  margin-right: 10px;
+  text-decoration: none;
+  list-style: none;
+  display: inline-flex;
+}
+.list_name {
+  padding-left: 20px;
+}
+.index2 ul {
+  /* margin-top: 50px; */
+}
+
+.list_image {
+  /* background-color: #ffaa00; */
+  border-radius: 100%;
+}
+
+.button2 {
+  width: 120px;
+  height: 30px;
+  left: 204px;
+  top: 1600px;
+  background-color: white;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  border-style: none;
+  color: #ff6160;
+}
+.middle_overlap {
+  display: grid;
+  /* grid-template-rows: 2fr 0.5fr 0.5fr 1fr; */
+  position: relative;
+  width: 350px;
+  /* height: 388px; */
+  margin-left: 340px;
+  margin-top: 320px;
+  /* justify-content: center;
+  align-items: center; */
+  background: #ffffff;
+  border: 1px solid #dfdfdf;
+  /* padding: 15px 50px 0px 50px; */
+  border-radius: 22px;
+  text-align: center;
+  padding-top: 20px;
+}
+.middle_overlap_button {
+  color: white;
+  font-family: Manrope;
+  width: 166px;
+  height: 42px;
+  background-color: #0091d0;
+  border: transparent;
+  border-radius: 6px;
+  justify-self: center;
+  margin: 20px 0 20px;
+}
+.middle_right {
+  margin-top: 100px;
+  margin-left: 50px;
+  margin-right: 250px;
+  width: 350px;
+}
+.middle_right1 {
+  font-size: 14px;
+  color: blue;
+}
+.right_heading {
+  font-size: 36px;
+}
+.seperator {
+  width: 300px;
+  height: 2px;
+  color: grey;
+}
+.list2 {
+  list-style: none;
+  /* margin-top: 5px; */
+}
+.ul2 {
+  gap: 30px;
+  padding-inline-start: 0;
+}
+.push {
+  text-align: center;
+  font-size: 26px;
+}
